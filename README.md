@@ -1,1 +1,1 @@
-http://localhost:8501
+https://smart-traffic-management-4v3jmar3ybqm3sepitnyzg.streamlit.app/
